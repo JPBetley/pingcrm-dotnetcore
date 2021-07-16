@@ -348,3 +348,6 @@ MigrationBackup/
 
 # Ionide (cross platform F# VS Code tools) working folder
 .ionide/
+PingCRM/wwwroot/css/app.css
+PingCRM/wwwroot/js/app.js
+PingCRM/wwwroot/mix-manifest.json
